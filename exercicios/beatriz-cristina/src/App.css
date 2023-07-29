@@ -37,16 +37,6 @@
   padding: 2em;
 }
 
-.search { 
-  display: flex;
-  flex-direction: column;
-}
-
 .read-the-docs {
   color: #888;
-}
-
-#app {
-  display: flex;
-  flex-direction: column;
 }
